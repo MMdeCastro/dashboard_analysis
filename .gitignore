@@ -1,0 +1,11 @@
+# jupyter
+.ipynb_checkpoints
+# sphinx
+docs/_build/
+docs/_static/
+docs/_templates/
+docs/html/
+# pycharm
+.idea
+# text
+lesson_1_reflection_prompts.txt
